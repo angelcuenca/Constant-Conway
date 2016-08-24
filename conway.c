@@ -20,12 +20,12 @@ int main(){
     int numeroEnCadena=0;
     int numeroEscribeCad=0;
 
-    printf("Escribe la constante: ");
+    printf("Enter the initial number: ");
     fflush(stdin);
     gets(constante);
     strcpy(seriesConway,constante);
 
-    printf("Numero de series: ");
+    printf("Enter the number of series: ");
     scanf("%d",&numero);
 
     for(c=0; c < numero ; c++){
