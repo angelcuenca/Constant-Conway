@@ -13,4 +13,4 @@ To generate a member of the sequence from the previous member, read off the digi
 More details are shown [here](https://en.wikipedia.org/wiki/Look-and-say_sequence#Growth_in_length)
 
 <br />
-Created in C language.
+Developed in C language.
